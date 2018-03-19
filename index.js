@@ -18,3 +18,12 @@ while (i<=array.length-1){
 }
 return newArray;  
 }
+
+function iLoveTheBeatles(num){
+  var newArray=[];
+  var i = 0;
+  do{
+    newArray = "I love the Beatles";
+    i++;
+  }while(i<=15);
+}
