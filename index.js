@@ -26,4 +26,6 @@ function iLoveTheBeatles(num){
     newArray = "I love the Beatles";
     i++;
   }while(i<=15);
+  return newArray;
+
 }
